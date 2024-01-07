@@ -1,0 +1,35 @@
+body{
+}
+
+.slider__container{
+    position: relative;
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+    border: 3px solid red;
+    border-radius: 3px;
+    overflow: hidden;
+}
+
+
+
+.slider-line{
+    position: relative;
+    display: flex;
+    margin: 0 auto;
+    transition: all 1s;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+    position: relative;
+}
+
+
+
+.buttons__cover{
+    margin: 25px auto; 
+}
+
+
